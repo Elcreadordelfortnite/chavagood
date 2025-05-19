@@ -15,9 +15,9 @@ _ESTA TAREA SE TRATO DE_
 
 _ESTA TAREA SE TRATO DE_
 
-1. [TEXTO.TXT](https://github.com/Elcreadordelfortnite/chavagood/blob/main/texto.txt)
-2. [TEXTO2.TXT](https://github.com/Elcreadordelfortnite/chavagood/blob/main/texto%202.txt)
-3. [TEXTO3.TXT](https://github.com/Elcreadordelfortnite/chavagood/blob/main/texto%203.txt)
+1. [METODOBISECCION](https://github.com/Elcreadordelfortnite/chavagood/blob/main/texto.txt)
+2. [METODONEWRAPHSON](https://github.com/Elcreadordelfortnite/chavagood/blob/main/texto%202.txt)
+3. [METODOSECANTE](https://github.com/Elcreadordelfortnite/chavagood/blob/main/texto%203.txt)
 
 *TAREA 3: RAICES DE ECUACIONES, PARTE 2
 
