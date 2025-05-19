@@ -1,0 +1,50 @@
+//cristopher salvador mendoza Contreras//
+#include <iostream>
+#include <fstream>
+#include <cmath>
+#include <iomanip>
+
+using namespace std;
+
+// Función f(x)
+double f(double x) {
+    return 2 * x * cos(2 * x) - pow((x + 1), 2);
+}
+
+// Método de bisección con salida a archivo
+void biseccion(double a, double b, int iteraciones) {
+    ofstream archivo("biseccion.txt");  // Abrimos el archivo de salida
+    archivo << "Iteracion xi a b Error\n";
+
+    cout << "Iteracion |   xi   |   a    |   b    |  Error  " << endl;
+    cout << "---------------------------------------------" << endl;
+    
+    for (int i = 1; i <= iteraciones; i++) {
+        double xi = (a + b) / 2.0;
+        double error = fabs((b - a) / 2.0);
+        
+        cout << setw(5) << i << "    | "
+             << setw(6) << fixed << setprecision(4) << xi << " | "
+             << setw(6) << a << " | "
+             << setw(6) << b << " | "
+             << setw(6) << error << endl;
+
+        archivo << i << " " << xi << " " << a << " " << b << " " << error << "\n";
+
+        if (f(xi) * f(a) < 0) {
+            b = xi;
+        } else {
+            a = xi;
+        }
+    }
+    
+    archivo.close();  // Cerramos el archivo
+}
+
+int main() {
+    double a = -3, b = -2;
+    int iteraciones = 5;
+    
+    biseccion(a, b, iteraciones);
+    return 0;
+}
