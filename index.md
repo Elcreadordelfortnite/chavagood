@@ -3,6 +3,6 @@ _Esto es subrayado_ **Esto es negritas**
 aqui van mis codigos de la materia
 
 * Tema 1
- 1. [ejemplo 1] (https://github.com/Elcreadordelfortnite/chavagood/blob/main/index.md)
- 2. [ejemplo 2] (https://github.com/Elcreadordelfortnite/chavagood/blob/main/index.md)
- 3. [ejemplo 3] (https://github.com/Elcreadordelfortnite/chavagood/blob/main/index.md)
+ 1. [Ejemplo 1](https://github.com/Elcreadordelfortnite/chavagood/blob/main/Diferenciacion.py)
+ 2. [Ejemplo 2](https://github.com/Elcreadordelfortnite/chavagood/blob/main/matriz_1.py)
+ 3. [Ejemplo 3](https://github.com/Elcreadordelfortnite/chavagood/blob/main/metodos_simpson%201.py)
