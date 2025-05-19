@@ -1,6 +1,7 @@
 #proyecto de la materia progra numerica
 
 * TAREA 1: REPASO DE PROGRAMACION
+
 _ESTA TAREA SE TRATO DE_
 
 1. [PROBLEMA 1](https://github.com/Elcreadordelfortnite/chavagood/blob/main/problema_1.py) 
@@ -11,6 +12,7 @@ _ESTA TAREA SE TRATO DE_
 6. [PROBLEMA 6](https://github.com/Elcreadordelfortnite/chavagood/blob/main/problema_6.py)
 
 *TAREA 2: RAICES DE ECUACIONES PARTE 1
+
 _ESTA TAREA SE TRATO DE_
 
 1. [TEXTO.TXT](https://github.com/Elcreadordelfortnite/chavagood/blob/main/texto.txt)
@@ -18,12 +20,14 @@ _ESTA TAREA SE TRATO DE_
 3. [TEXTO3.TXT](https://github.com/Elcreadordelfortnite/chavagood/blob/main/texto%203.txt)
 
 *TAREA 3: RAICES DE ECUACIONES, PARTE 2
+
 _ESTA TAREA SE TRATO DE_
 
 1. [TEXTO4.TXT](https://github.com/Elcreadordelfortnite/chavagood/blob/main/texto%204.txt)
 2. [TEXTO5.TXT](https://github.com/Elcreadordelfortnite/chavagood/blob/main/texto%205.txt)
 
 *TAREA 4: SISTEMAS DE ECUACIONES LINEALES
+
 _ESTA TAREA SE TRATO DE_
 
 1. [MATRIZ1.PY](https://github.com/Elcreadordelfortnite/chavagood/blob/main/matriz_1.py)
