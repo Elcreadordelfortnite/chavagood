@@ -23,8 +23,8 @@ _ESTA TAREA SE TRATO DE_
 
 _ESTA TAREA SE TRATO DE_
 
-1. [TEXTO4.TXT](https://github.com/Elcreadordelfortnite/chavagood/blob/main/texto%204.txt)
-2. [TEXTO5.TXT](https://github.com/Elcreadordelfortnite/chavagood/blob/main/texto%205.txt)
+1. [FALSAPOSICION](https://github.com/Elcreadordelfortnite/chavagood/blob/main/texto%204.txt)
+2. [METODOBIRGE_VIETA](https://github.com/Elcreadordelfortnite/chavagood/blob/main/texto%205.txt)
 
 *TAREA 4: SISTEMAS DE ECUACIONES LINEALES
 
