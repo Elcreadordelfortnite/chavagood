@@ -10,6 +10,7 @@ _ESTA TAREA SE TRATO DE_
 4. [PROBLEMA 4](https://github.com/Elcreadordelfortnite/chavagood/blob/main/problema_4.py)
 5. [PROBLEMA 5](https://github.com/Elcreadordelfortnite/chavagood/blob/main/problema_5.py)
 6. [PROBLEMA 6](https://github.com/Elcreadordelfortnite/chavagood/blob/main/problema_6.py)
+   ![image](https://github.com/user-attachments/assets/cef62a42-f3e2-4ec3-9519-ef04651bc1b9)
 
 *TAREA 2: RAICES DE ECUACIONES PARTE 1
 
