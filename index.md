@@ -36,3 +36,19 @@ _ESTA TAREA SE TRATO DE_
 2. [MATRIZ2.PY](https://github.com/Elcreadordelfortnite/chavagood/blob/main/matriz_2.py)
 3. [MATRIZ3.PY](https://github.com/Elcreadordelfortnite/chavagood/blob/main/matriz_3.py)
 4. [MATRIZ4.PY](https://github.com/Elcreadordelfortnite/chavagood/blob/main/matriz_4.py)
+
+*TAREA 5: INTEGRACION Y DIFERENCIACION NUMERICAS
+
+_ESTA TAREA SE TRATO DE_
+
+1. [METODOS_SIMPSON.PY](https://github.com/Elcreadordelfortnite/chavagood/edit/main/index.md)
+2. [DIFERENCIACION.PY](https://github.com/Elcreadordelfortnite/chavagood/edit/main/index.md)
+
+*TAREA 6: INTERPOLACION Y REGRESION NUMERICAS
+
+_ESTA TAREA SE TRATO DE_
+
+1. [INTERPOLACION LINEAL.PY](https://github.com/Elcreadordelfortnite/chavagood/edit/main/index.md)
+2. [INTERPOLACION CUADRATICA.PY](https://github.com/Elcreadordelfortnite/chavagood/edit/main/index.md)
+3. [INTERPOLACION DE NEWTON.PY](https://github.com/Elcreadordelfortnite/chavagood/edit/main/index.md)
+4. [REGRESION LINEAL](https://github.com/Elcreadordelfortnite/chavagood/edit/main/index.md)
