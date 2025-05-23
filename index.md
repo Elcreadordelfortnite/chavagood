@@ -9,7 +9,8 @@
 5. [PROBLEMA 5](https://github.com/Elcreadordelfortnite/chavagood/blob/main/problema_5.py)
 6. [PROBLEMA 6](https://github.com/Elcreadordelfortnite/chavagood/blob/main/problema_6.py)
 
-   ![image](https://github.com/user-attachments/assets/cef62a42-f3e2-4ec3-9519-ef04651bc1b9)
+   ![image](https://github.com/user-attachments/assets/de5cbccd-0a69-4978-b17c-a45b685786d4)
+
 
 *TAREA 2: RAICES DE ECUACIONES PARTE 1
 
@@ -17,7 +18,8 @@
 2. [METODONEWRAPHSON](https://github.com/Elcreadordelfortnite/chavagood/blob/main/texto%202.txt)
 3. [METODOSECANTE](https://github.com/Elcreadordelfortnite/chavagood/blob/main/texto%203.txt)
 
-   ![image](https://github.com/user-attachments/assets/51e087ca-e7a2-49d1-8b65-c8e800173619)
+   ![image](https://github.com/user-attachments/assets/8ac64a11-a2b2-4579-8c5a-d6e0b0db402b)
+
 
 
 *TAREA 3: RAICES DE ECUACIONES, PARTE 2
@@ -27,7 +29,8 @@ _Es un valor de la variable_
 1. [FALSAPOSICION](https://github.com/Elcreadordelfortnite/chavagood/blob/main/texto%204.txt)
 2. [METODOBIRGE_VIETA](https://github.com/Elcreadordelfortnite/chavagood/blob/main/texto%205.txt)
 
-![image](https://github.com/user-attachments/assets/0a6d37bd-765c-45f5-9dc2-b433adecb645)
+![image](https://github.com/user-attachments/assets/c3eee0d3-fe06-4e23-ba1d-049199115efc)
+
 
 *TAREA 4: SISTEMAS DE ECUACIONES LINEALES
 
@@ -38,7 +41,8 @@ _Es un conjunto de dos o más ecuaciones lineales con varias incógnitas, que bu
 3. [MATRIZ3.PY](https://github.com/Elcreadordelfortnite/chavagood/blob/main/matriz_3.py)
 4. [MATRIZ4.PY](https://github.com/Elcreadordelfortnite/chavagood/blob/main/matriz_4.py)
 
-![image](https://github.com/user-attachments/assets/7781be01-bc74-43c4-9cb8-52f24c5f2ac7)
+![image](https://github.com/user-attachments/assets/08d692c9-2166-46a8-a3a3-c09d4ed68a6b)
+
 
 *TAREA 5: INTEGRACION Y DIFERENCIACION NUMERICAS
 
@@ -53,7 +57,8 @@ _Solo se tienen valores tabulados_
 1. [METODOS_SIMPSON.PY](https://github.com/Elcreadordelfortnite/chavagood/edit/main/index.md)
 2. [DIFERENCIACION.PY](https://github.com/Elcreadordelfortnite/chavagood/edit/main/index.md)
 
-![image](https://github.com/user-attachments/assets/8e453261-f911-4190-b252-a98118e92cfc)
+![image](https://github.com/user-attachments/assets/14deeb69-09e3-4cd3-b60a-9af43a13a3be)
+
 
 *TAREA 6: INTERPOLACION Y REGRESION NUMERICAS
 
@@ -66,4 +71,5 @@ _La regresión busca encontrar una función que se ajuste lo mejor posible a un 
 3. [INTERPOLACION DE NEWTON.PY](https://github.com/Elcreadordelfortnite/chavagood/edit/main/index.md)
 4. [REGRESION LINEAL](https://github.com/Elcreadordelfortnite/chavagood/edit/main/index.md)
 
-![image](https://github.com/user-attachments/assets/a14b885a-580c-4367-aa73-9895cd648383)
+![image](https://github.com/user-attachments/assets/96639dfc-0408-466f-97a4-51e1ae83a26a)
+
